@@ -1,4 +1,4 @@
-#PayPal Case Study - Pancake Flipping Analysis
+# PayPal Case Study - Pancake Flipping Analysis
 
 Arielle and Boris compete in the little-known sport of pancake flipping, and have both been nominated for this season's "best pancake flipper" award. As a Data Scientist our objective is to provide the Data Driven Analysis and suggestion on who is the better pancake flipper.
 
